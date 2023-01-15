@@ -3,9 +3,17 @@ export const projects = [
     title: "Reporting Dashboard",
     subtitle: "Python React",
     description:
-      "This App uses Dash By plotly to create an analytical web application which analyzes the classified incident records and generates interactive data visualizations which help gather meaningful insights from the data. The DashBoard produces interactive visualizations which enable the user to drill down to the root cause of the incident and it does so by using custom cross filters put in place considering the desired output of the individual.",
+      "This Incident Reporting Dashboard is an easy- to - use, interactive tool for quickly and effectively managing and tracking incidents that occur.It features intuitive, user - friendly interactive graphs that allow you to drill down and drill up operations so you can quickly pinpoint the cause of issues and take corrective action.It is built using powerful Python and React technologies, and you can also download generated reports in PDF format for further analysis.With this Incident Reporting Dashboard, you can ensure that your operations are running smoothly and efficiently.",
     image: "./project-1.gif",
     link: "https://architpai.pythonanywhere.com/",
+  },
+  {
+    title: "Recipe Generator",
+    subtitle: "Deep Learning React",
+    description:
+      "Introducing the GPT-3 Recipes Generator – the ultimate tool for creating delicious and customized recipes! Our revolutionary AI and ML-powered recipe generator utilizes the latest GPT-3 technology to create perfect recipes tailored to your preferences. With its intuitive UI and modern React and Next.js architecture, you'll be able to easily create recipes for any occasion. Plus, our serverless app ensures that you have access to your recipes whenever and wherever you need them. Try the GPT-3 Recipes Generator today and start cooking up something delicious!Please Star the GitHub repo if you can it helps a lot",
+    image: "./project-2.gif",
+    link: "https://recipes-generator.up.railway.app/",
   },
 ];
 
